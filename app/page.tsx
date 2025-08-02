@@ -1,5 +1,5 @@
-import Link from 'next/link'
-import { SignInButton, SignUpButton, UserButton, } from '@clerk/nextjs'
+
+import { SignInButton, SignUpButton, } from '@clerk/nextjs'
 import { currentUser } from '@clerk/nextjs/server' 
 
 import { redirect } from 'next/navigation'
