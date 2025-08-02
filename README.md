@@ -55,7 +55,7 @@ Visit: http://localhost:3000
 
 Tier	      Email	                      Password
 Free	      free@demo.com	              demo123
-Silver	      silver@demo.com	          demo123
+Silver	    silver@demo.com	            demo123
 Gold	      gold@demo.com	              demo123
 Platinum	  platinum@demo.com	          demo123
 
@@ -66,11 +66,11 @@ Table: events
 
 Column	         Type
 id	             UUID
-title	         Text
+title	           Text
 description	     Text
 event_date	     Timestamp
-image_url	     Text
-tier	         Enum ('free', 'silver', 'gold', 'platinum')
+image_url	       Text
+tier	           Enum ('free', 'silver', 'gold', 'platinum')
 
 Seeded with at least 6 events (2 per tier)
 
