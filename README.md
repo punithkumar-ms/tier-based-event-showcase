@@ -75,6 +75,9 @@ tier	         Enum ('free', 'silver', 'gold', 'platinum')
 Seeded with at least 6 events (2 per tier)
 
 🖥️ Live Deployment
-🌐 Live Vercel URL
 
-📁 GitHub Repository
+🌐 https://tier-based-event-showcase-cyan.vercel.app
+
+
+
+📁 GitHub Repository : https://github.com/punithkumar-ms/tier-based-event-showcase
